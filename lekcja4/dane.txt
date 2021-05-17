@@ -1,0 +1,3 @@
+name,link,tresc
+O nas,onas,Jesteśmy piękni i idealni
+Kontakt,kontakt,692254964asd asd
